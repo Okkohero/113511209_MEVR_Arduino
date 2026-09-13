@@ -14,5 +14,5 @@ void loop() {
 
   Serial.print("Data is ");
   Serial.println(value);
-  delay(300);
+  delay(1000);
 }
