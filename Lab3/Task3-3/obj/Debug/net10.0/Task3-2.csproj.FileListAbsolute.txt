@@ -1,0 +1,6 @@
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.csproj.AssemblyReference.cache
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.AssemblyInfoInputs.cache
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.AssemblyInfo.cs
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.csproj.CoreCompileInputs.cache
+C:\github_rep\113511209_MEVR_Arduino\Lab3\Task3-2\obj\Debug\net10.0\Task3-2.sourcelink.json
