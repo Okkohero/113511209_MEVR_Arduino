@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj": {}
+    "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj": {}
   },
   "projects": {
-    "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj": {
+    "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
+        "projectUniqueName": "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
         "projectName": "Task3-3",
-        "projectPath": "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
+        "projectPath": "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
         "packagesPath": "C:\\Users\\okkoh\\.nuget\\packages\\",
-        "outputPath": "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\obj\\",
+        "outputPath": "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\okkoh\\AppData\\Roaming\\NuGet\\NuGet.Config"

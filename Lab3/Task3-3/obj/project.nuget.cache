@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4d3UxeF6d/4=",
+  "dgSpecHash": "wQRVNoA/h6E=",
   "success": true,
-  "projectFilePath": "c:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
+  "projectFilePath": "C:\\github_rep\\113511209_MEVR_Arduino\\Lab3\\Task3-3\\Task3-3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\okkoh\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
     "C:\\Users\\okkoh\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",

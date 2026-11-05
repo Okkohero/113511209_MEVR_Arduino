@@ -18,7 +18,7 @@ void setup() {
 }
 
 void loop() {
-  // 接收來自藍牙模組（C# 上位機）的指令 ===
+  // 接收來自藍牙模組（C# 上位機）的指令 
   if (BTSerial.available() > 0) {
     String command = BTSerial.readStringUntil('\n');
     command.trim();
